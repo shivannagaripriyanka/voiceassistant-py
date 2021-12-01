@@ -1,0 +1,7 @@
+{
+    "go.inferGopath": true,
+    "go.installDependenciesWhenBuilding": true,
+    "go.GOPATH" :true,
+    "go.toolsGopath": "true"
+  
+}
