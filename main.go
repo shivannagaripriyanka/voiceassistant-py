@@ -46,7 +46,7 @@ func main() {
 
 	}
 
-	gin.SetMode(gin.ReleaseMode)0
+	gin.SetMode(gin.ReleaseMode)
 	router.Run(":3000")
 }
 
@@ -88,3 +88,4 @@ func authMiddleWare() gin.HandlerFunc {
 		}
 	}
 }
+ 
